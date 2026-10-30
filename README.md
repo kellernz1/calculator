@@ -1,35 +1,35 @@
-# 🧮 Modern Web Calculator
+# Web Calculator
 
 A fully functional, modern calculator built with vanilla JavaScript using Object-Oriented Programming (OOP) principles. It features a sleek dark UI, number formatting, and keyboard support for a seamless user experience.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 https://kellernz1.github.io/calculator
-
----
-
-## ✨ Features
-
-- ➕ Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
-- ⌨️ Full keyboard support (Type directly using your Numpad)
-- 🔢 Automatic number formatting (Thousands separators)
-- 🛡️ Edge-case handling (Prevents division by zero and multiple decimals)
-- 🔙 Delete (`DEL`) and All Clear (`AC`) functions
-- 🎨 Modern dark mode UI with responsive hover effects
-- 📱 Responsive design (Works on desktop & mobile)
+https://kellernz1.github.io/calculator
 
 ---
 
-## 🛠️ Tech Stack
+## Features
+
+- Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+- Full keyboard support (Type directly using your Numpad)
+- Automatic number formatting (Thousands separators)
+- Edge-case handling (Prevents division by zero and multiple decimals)
+- Delete (`DEL`) and All Clear (`AC`) functions
+- Modern dark mode UI with responsive hover effects
+- Responsive design (Works on desktop & mobile)
+
+---
+
+## Tech Stack
 
 - **Frontend:** HTML5, CSS3 (Grid Layout)
 - **Logic:** Vanilla JavaScript (ES6 Classes, no `eval()`)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 /calculator
@@ -41,7 +41,7 @@ A fully functional, modern calculator built with vanilla JavaScript using Object
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -62,7 +62,7 @@ npx live-server
 
 ---
 
-## 📥 Usage
+## Usage
 
 1. Open the application.
 2. Click the on-screen buttons or use your physical keyboard to type numbers and operators.
@@ -71,28 +71,22 @@ npx live-server
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was built for educational purposes and to compose my personal developer portfolio.
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
-- 📜 Calculation history log
-- 🌙 Dark/Light mode toggle
-- 📐 Scientific calculator features (Square root, percentages, powers)
-- 🔊 Click sounds integration
-
----
-
-## 👨‍💻 Author
-
-Developed by **Keller Nz**
+- Calculation history log
+- Dark/Light mode toggle
+- Scientific calculator features (Square root, percentages, powers)
+- Click sounds integration
 
 ---
 
-## ⭐ Contribute
+## Contribute
 
 Feel free to fork this project and submit pull requests!
 
